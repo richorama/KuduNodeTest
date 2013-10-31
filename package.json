@@ -1,0 +1,13 @@
+{
+  "name": "quicktest",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "azure": "*",
+    "express": "*",
+    "passport": "*",
+    "passport-windowslive": "*",
+    "nodemailer": "~0.5.2",
+    "async": "~0.2.9"
+  }
+}
