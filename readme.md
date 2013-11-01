@@ -1,4 +1,4 @@
-# Kudo Node Test
+# Kudu Node Test
 
 A repository to test Windows Azure Web Site deployments of large node projects.
 
@@ -7,6 +7,6 @@ To deploy on Azure, make sure you have the XPlat tools set up, and type the foll
 ```
 $ git clone https://github.com/richorama/KuduNodeTest.git
 $ cd KuduNodeTest
-$ azure site create FooBar --git
+$ azure site create --git
 $ git push azure master
 ```
